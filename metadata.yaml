@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2624
     wikipedia: http://www.gutenberg.org/ebooks/author/1599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20434#The-Boy-Scouts-First-Camp-Fire--or-Scouting-with-the-Silver-Fox-Patrol
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-01-24'
 gutenberg_type: Text
