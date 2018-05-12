@@ -1,0 +1,26 @@
+_repo: The-Boy-Scouts-First-Camp-Fire--or-Scouting-with-the-Silver-Fox-Patrol_20434
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20434-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carter, Herbert, active 1909-1917
+    gutenberg_agent_id: '2624'
+    url: http://www.gutenberg.org/2009/agents/2624
+    wikipedia: http://www.gutenberg.org/ebooks/author/1599
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+title: The Boy Scouts' First Camp Fire; or, Scouting with the Silver Fox Patrol
+url: http://www.gutenberg.org/ebooks/20434
